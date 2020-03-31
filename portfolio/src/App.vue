@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <myheader></myheader>
-    <img src="./assets/logo.png">
-    <router-view/>
-    <button class="btn btn-primary">test</button>
+    <div class="container">
+      <router-view/>
+    </div>
   </div>
 </template>
 
