@@ -27,7 +27,9 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1 {
-  margin-top: 100px;
+  width: 100%;
+  margin-top: 150px;
+  border-bottom: none;
 }
 p {
   margin-top: 50px;

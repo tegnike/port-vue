@@ -14,7 +14,7 @@
               <router-link class="nav-link px-4 px-3" to="/languages">Languages</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link px-4 px-3" to="/carrers">Business Careers</router-link>
+              <router-link class="nav-link px-4 px-3" to="/careers">Business Careers</router-link>
             </li>
             <li class="nav-item">
               <router-link class="nav-link px-4 px-3" to="/portfolios">Portfolios</router-link>

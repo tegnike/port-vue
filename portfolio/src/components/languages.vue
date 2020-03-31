@@ -1,7 +1,7 @@
 <template>
   <div id="languages">
     <h1>Languages</h1>
-    <div class="row mt-4">
+    <div class="row">
       <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
       <div class="card col-lg-5 float-left p-0 my-4">
         <div class="card-header html"></div>

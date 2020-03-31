@@ -28,6 +28,10 @@ export default {
 }
 h1 {
   font-weight: bold;
+  width: 50%;
+  margin: auto auto 1.5rem;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #41b883;
 }
 a {
   color: #41b883;
