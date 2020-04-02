@@ -5,9 +5,9 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import home from '@/components/home'
 import introduction from '@/components/introduction'
-import languages from '@/components/languages'
+import skills from '@/components/skills'
 import careers from '@/components/careers'
-import portfolios from '@/components/portfolios'
+import works from '@/components/works'
 import contact from '@/components/contact'
 
 Vue.use(Router)
@@ -26,9 +26,9 @@ export default new Router({
       component: introduction
     },
     {
-      path: '/languages',
-      name: 'languages',
-      component: languages
+      path: '/skills',
+      name: 'skills',
+      component: skills
     },
     {
       path: '/careers',
@@ -36,9 +36,9 @@ export default new Router({
       component: careers
     },
     {
-      path: '/portfolios',
-      name: 'portfolios',
-      component: portfolios
+      path: '/works',
+      name: 'works',
+      component: works
     },
     {
       path: '/contact',

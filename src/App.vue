@@ -4,6 +4,7 @@
     <div class="container">
       <router-view/>
     </div>
+    <footer/>
   </div>
 </template>
 
@@ -26,6 +27,9 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+footer {
+  margin-top: 100px;
+}
 h1 {
   font-weight: bold;
   width: 50%;
@@ -39,5 +43,14 @@ a {
 a:hover {
   text-decoration: none;
   color: green;
+}
+.card-parent {
+  z-index: -1;
+}
+
+@media screen and (max-width:400px) {
+  html {
+    font-size: 0.9rem;
+  }
 }
 </style>

@@ -2,36 +2,30 @@
   <div class="home">
     <h1 class="display-4 font-weight-bold">
       Welcome to My Portfolio !!
-      <span class="display-5 d-block">
-        by <span class="text-success">tegnike</span>
+      <span class="d-block">
+        <span class="by">by</span> <span class="text-success">ニケ</span>
       </span>
     </h1>
     <p>
-      はじめまして、tegnikeです。<br>
-      このサイトはtegnikeの自己紹介サイトです。
+      はじめまして、ニケです。<br>
+      このWebサイトは<span class="font-weight-bold">Vue.js</span>を使用してSPAで作成されています。
     </p>
   </div>
 </template>
 
-<script>
-export default {
-  name: 'HelloWorld',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
-}
-</script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1 {
   width: 100%;
   margin-top: 150px;
   border-bottom: none;
 }
+h1 > span {
+  margin-top: 10px
+}
 p {
   margin-top: 50px;
+}
+.by {
+  font-size: 2.5rem;
 }
 </style>
