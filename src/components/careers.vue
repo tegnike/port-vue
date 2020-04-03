@@ -1,7 +1,7 @@
 <template>
   <div class="careers">
     <h1>Business Careers</h1>
-    <div class="col-lg-9 my-4 mx-auto card-parent">
+    <div class="col-lg-9 my-4 mx-auto">
       <div class="card">
       <h3 class="card-header"><span>2018年7月〜</span> メビックス株式会社</h3>
       <div class="card-body">

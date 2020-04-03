@@ -1,7 +1,7 @@
 <template>
   <div id="skills">
     <h1>Technical Skills</h1>
-    <div class="col-lg-9 my-4 mx-auto card-parent">
+    <div class="col-lg-9 my-4 mx-auto">
       <div class="row">
         <div class="card col-lg-6 float-left p-0 mb-4">
           <div class="card-header html"></div>
@@ -16,7 +16,7 @@
           <div class="card-body">
             <h4 class="card-title">Ruby</h4>
             <p class="career">経験年数：1年</p>
-            <p>個人開発で主に使用している言語で、1番得意です。現在は仕事でもRuby on Railsを使って開発しています。詳細なスキルレベルについてはWorksで紹介しています。</p>
+            <p>個人開発で主に使用している言語で、1番得意です。現在は仕事でもRuby on Railsを使って開発しています。詳細なスキルレベルについては<router-link to="/works">Works</router-link>で紹介しています。</p>
           </div>
         </div>
         <div class="card col-lg-6 float-left p-0 mb-4">

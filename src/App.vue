@@ -27,6 +27,9 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+#nav-collapse {
+  z-index: 1000;
+}
 footer {
   margin-top: 100px;
 }
@@ -43,9 +46,6 @@ a {
 a:hover {
   text-decoration: none;
   color: green;
-}
-.card-parent {
-  z-index: -1;
 }
 
 @media screen and (max-width:400px) {
