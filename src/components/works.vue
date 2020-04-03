@@ -1,7 +1,7 @@
 <template>
   <div id="works">
     <h1>Works</h1>
-    <div class="col-lg-9 my-4 mx-auto">
+    <div class="col-lg-9 my-4 mx-auto card-parent">
      <div class="card mb-4">
        <h3 class="card-header">PORT（ポートフォリオ共有サイト）</h3>
        <div class="card-body">
