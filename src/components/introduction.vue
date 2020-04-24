@@ -5,9 +5,10 @@
     <p class="table col-lg-9 mt-4 mx-auto">
       はじめまして、ニケです。<br>
       <br>
-      ポーランドからフルリモートで働いているサーバーサイドエンジニアです。働き始めてもうすぐ2年経ちます。<br>
+      ポーランドからフルリモートで働いているサーバーサイドエンジニアです。<br>
+      エンジニア歴は2年弱、リモート歴は1年になります。<br>
       <br>
-      得意な言語は<span class="text-weight-bold">Ruby on Rails</span>ですが、いろいろな言語に触ることも好きです。
+      得意な言語は<span class="text-weight-bold">Ruby on Rails</span>ですが、いろいろな言語に触ることが好きです。
     </p>
     <div class="row">
       <table class="table col-lg-8 mt-4 mx-auto">
@@ -19,15 +20,15 @@
         </thead>
         <tbody>
           <tr>
-            <td>Name</td>
+            <td>名前</td>
             <td>ニケ</td>
           </tr>
           <tr>
-            <td>Educational Background</td>
+            <td>最終学歴</td>
             <td>東京理科大学大学院 薬科学科</td>
           </tr>
           <tr>
-            <td>Age</td>
+            <td>年齢</td>
             <td>28</td>
           </tr>
         </tbody>

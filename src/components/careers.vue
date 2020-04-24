@@ -45,11 +45,11 @@
           </p>
         </div>
         <hr>
-        <h4 class="card-title"><span>2019年10月〜</span> 子会社のアルバイター業務発注受注管理システムの開発</h4>
+        <h4 class="card-title"><span>2019年4月〜</span> 子会社のアルバイター業務発注受注管理システムの開発</h4>
         <div class="content">
           <p class="card-text">
             【概要】 <br>
-            　子会社が契約しているアルバイターへの業務発注および受注を管理するシステムで、子会社からの依頼で弊社 IT 部門が開発を担当しています。 私は途中からの本プロジェクトへのアサインでしたが、現在は業務の大部分を引き継ぎ、クライアントとの打ち合わせでは、主立って仕様の調整をしています。
+            　子会社が契約しているアルバイターへの業務発注および受注を管理するシステムで、子会社からの依頼で弊社 IT 部門が開発を担当しています。 私は途中から本プロジェクトへアサインされましたが、現在は業務の大部分を引き継ぎ、クライアントとの打ち合わせでは、主立って仕様の調整をしています。
           </p>
           <table class="table mt-4">
             <thead>
@@ -63,7 +63,7 @@
               <tr>
                 <td>Windows10</td>
                 <td>Ruby 2.5, Rails 5.1, PostgreSQL 9.6</td>
-                <td>Visual Studio Code, Gitlab</td>
+                <td>Visual Studio Code, Gitlab, Docker</td>
               </tr>
             </tbody>
           </table>
