@@ -16,3 +16,20 @@ https://tegnike.github.io/port-vue/#/
 
 ### 本番環境
 * Github Pages
+
+## ビルドメモ
+
+1. コンテナ起動
+```
+docker-compose up
+```
+
+2. コンテナに入る
+```
+docker exec -it port-vue_app_1 sh
+```
+
+3. ビルド
+```
+npm run build
+```
