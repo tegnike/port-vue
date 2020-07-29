@@ -7,7 +7,7 @@
       </span>
     </h1>
     <p>
-      はじめまして、ニケです。<br>
+      はじめまして、長谷川 ニケです。<br>
       このWebサイトは<span class="font-weight-bold">Vue.js</span>を使用してSPAで作成されています。
     </p>
   </div>

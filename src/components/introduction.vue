@@ -3,10 +3,10 @@
     <h1>Introduction</h1>
     <img src="./../assets/icon.jpg" alt="" class="my-3">
     <p class="table col-lg-9 mt-4 mx-auto">
-      はじめまして、ニケです。<br>
+      はじめまして、長谷川ニケです。<br>
       <br>
-      ポーランドからフルリモートで働いているサーバーサイドエンジニアです。<br>
-      エンジニア歴は2年弱、リモート歴は1年になります。<br>
+      ポーランドからリモートでサーバーサイドエンジニアとして働いています。<br>
+      エンジニア歴は3年目に入りました。リモート歴は1年です。<br>
       <br>
       得意な言語は<span class="text-weight-bold">Ruby on Rails</span>ですが、いろいろな言語に触ることが好きです。
     </p>

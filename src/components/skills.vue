@@ -14,16 +14,16 @@
         <div class="card col-lg-6 float-left p-0 mb-4">
           <div class="card-header ruby"></div>
           <div class="card-body">
-            <h4 class="card-title">Ruby</h4>
-            <p class="career">経験年数：1年</p>
-            <p>個人開発で主に使用している言語で、1番得意です。現在は仕事でもRuby on Railsを使って開発しています。詳細なスキルレベルについては<router-link to="/works">Works</router-link>で紹介しています。</p>
+            <h4 class="card-title">Ruby on Rails</h4>
+            <p class="career">経験年数：1年4ヶ月</p>
+            <p>個人開発および業務で主に使用している言語で、1番得意です。詳細なスキルレベルについては<router-link to="/works">Works</router-link>で紹介しています。</p>
           </div>
         </div>
         <div class="card col-lg-6 float-left p-0 mb-4">
           <div class="card-header java"></div>
           <div class="card-body">
             <h4 class="card-title">Java/C#</h4>
-            <p class="career">経験年数：1年</p>
+            <p class="career">経験年数：2年</p>
             <p>仕事で使用しています。基本的な内容は理解できています。</p>
           </div>
         </div>
@@ -31,24 +31,24 @@
           <div class="card-header javascript"></div>
           <div class="card-body">
             <h4 class="card-title">JavaScript</h4>
-            <p class="career">経験年数：1年</p>
-            <p>主にjQueryを利用して、個人開発サイトのフロントエンドで使用してきました。最近はSPAの動作性に感激して、Vue.jsを勉強し始めました。</p>
+            <p class="career">経験年数：1年6ヶ月</p>
+            <p>主にjQueryを利用して、個人開発サイトのフロントエンドで使用してきました。最近はSPAの動作性に感動して、Vue.jsの勉強を始めています。</p>
           </div>
         </div>
         <div class="card col-lg-6 float-left p-0 mb-4">
           <div class="card-header docker"></div>
           <div class="card-body">
             <h4 class="card-title">Docker</h4>
-            <p class="career">経験年数：8ヶ月</p>
-            <p>個人で開発する際には必ず使用しています。docker-composeを利用した基本的な操作は一通りできます。</p>
+            <p class="career">経験年数：1年</p>
+            <p>個人で開発する際には必ず使用しています。docker-composeを利用した基本的な操作は一通りできます。業務でもたまに使用します。</p>
           </div>
         </div>
         <div class="card col-lg-6 float-left p-0 mb-4">
           <div class="card-header aws"></div>
           <div class="card-body">
-            <h4 class="card-title">AWS</h4>
+            <h4 class="card-title">AWS・GCP</h4>
             <p class="career">経験年数：初心者</p>
-            <p>ECSとECRを使用して、個人開発アプリをデプロイした経験があります。サーバーサイド関連の技術も誠意勉強中です。</p>
+            <p>AWSではECSとECRを使用して、個人開発アプリをデプロイした経験があります。業務ではGCPを利用したサーバーの運用・保守を担当しています。サーバーサイド関連の技術も誠意勉強中です。</p>
           </div>
         </div>
       </div>
